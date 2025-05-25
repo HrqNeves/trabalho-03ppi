@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-03ppi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HrqNeves/trabalho-03ppi.git"
+  },
+  "author": "Carlos Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HrqNeves/trabalho-03ppi/issues"
+  },
+  "homepage": "https://github.com/HrqNeves/trabalho-03ppi#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
